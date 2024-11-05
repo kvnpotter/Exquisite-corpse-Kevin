@@ -1,3 +1,8 @@
+# Introduction
+
+The aim of this simple repository is to exercise, and get used to, creating repositories, working with remote repositories in VS Code and CLI, cloning, forking, branching, contributing, fetch, pull, stage, commit, push etc. ...
+
+Each student was asked to create a repository on GitHub, make changes to the repository and contribute to other repositories.
 
 # This is my title, don't wear it out! <br>
 ### Testing out a conflict creation <br>  
